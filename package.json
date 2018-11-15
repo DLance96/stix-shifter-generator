@@ -4,12 +4,12 @@
     "description": "Creates the framework of a module for stix-shifter to add additonal SIEM support",
     "files": [
         "generators"
-    ]
+    ],
     "keywords": [
         "yeoman-generator",
         "stix-shifter",
-        "stix-transmission",
-    ]
+        "stix-transmission"
+    ],
     "dependencies": {
         "yeoman-generator": "^1.0.0"
     }
